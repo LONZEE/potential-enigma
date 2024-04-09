@@ -59,11 +59,11 @@ ${renderLicenseLink(data.license)}
 
 ## Contributing
 
-${data.contributing}
+${data.contribution}
 
 ## Tests
 
-${data.tests}
+${data.test}
 
 ## GitHub
 ${data.github}
